@@ -1,7 +1,7 @@
 {
-  "name": "hoojobs",
+  "name": "react-base-app",
   "version": "1.0.0",
-  "description": "hoojobs frontend",
+  "description": "React base app",
   "main": "index.js",
   "scripts": {
     "dev": "node server.js",
